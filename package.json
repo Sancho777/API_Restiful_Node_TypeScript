@@ -1,0 +1,19 @@
+{
+  "name": "minicursonodereact",
+  "version": "1.0.0",
+  "description": "API Restfull Node + Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Sancho777/API_Restiful_Node_TypeScript.git"
+  },
+  "author": "Adriano \"Sanxo\" MS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sancho777/API_Restiful_Node_TypeScript/issues"
+  },
+  "homepage": "https://github.com/Sancho777/API_Restiful_Node_TypeScript#readme"
+}
